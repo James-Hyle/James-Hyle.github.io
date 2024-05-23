@@ -1,3 +1,4 @@
 # James-Hyle.github.io
-## Jameshyle@u.boisestate.edu
-## https://github.com/James-Hyle
+## Email Contact: Jameshyle@u.boisestate.edu
+## My github profile: https://github.com/James-Hyle
+### Welsome!
