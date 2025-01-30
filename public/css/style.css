@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 { 
+    text-align: center; 
+}
+ul {
+    color: green;
+}
+#item { 
+    color: blue; 
+}
+li {
+    background-color: purple;
+}
